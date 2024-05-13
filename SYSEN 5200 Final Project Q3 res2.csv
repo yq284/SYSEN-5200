@@ -1,0 +1,16 @@
+,Day,Airport,Initial Planes,Planes Departed,Planes Arrived
+0,Monday,A,151.0,150.0,249.0
+1,Monday,B,600.0,598.0,500.0
+2,Monday,C,449.0,442.0,441.0
+3,Tuesday,A,,250.0,261.0
+4,Tuesday,B,,502.0,598.0
+5,Tuesday,C,,448.0,341.0
+6,Wednesday,A,,252.0,441.0
+7,Wednesday,B,,598.0,402.0
+8,Wednesday,C,,340.0,347.0
+9,Thursday,A,,450.0,299.0
+10,Thursday,B,,402.0,600.0
+11,Thursday,C,,308.0,261.0
+12,Friday,A,,299.0,151.0
+13,Friday,B,,600.0,600.0
+14,Friday,C,,301.0,449.0
